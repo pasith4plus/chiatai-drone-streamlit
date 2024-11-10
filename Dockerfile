@@ -2,7 +2,7 @@
 # docker login
 # docker push pasithbas4plus/llm-demo:tagname
 
-FROM python:3.9-slim 
+FROM python:3.10-slim 
 
 ENV PYTHONUNBUFFERED True
 
